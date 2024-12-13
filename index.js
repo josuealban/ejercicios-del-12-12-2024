@@ -1,9 +1,2 @@
-let person={
-   videojuegofavorito:"hollowknight",
-   edad:18,
-   comidafavorita:["pizza","hambuguesa"],
-   nombre:"josuealban"
-
-}
-
-alert(person.comidafavorita[1])
+let parkofCuenca=["parque calderon","parque de la madre","parque de san blas"]
+alert(parkofCuenca[2])
